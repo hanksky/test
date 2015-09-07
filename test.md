@@ -10,7 +10,6 @@ List all the external systems with which the software product interacts. These a
 
 ### 1.2 User Interfaces
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 1.2.1. User specifies delimiters using –d argument
 
 1.2.2. User specifies word length using –l argument
@@ -18,7 +17,6 @@ List all the external systems with which the software product interacts. These a
 1.2.3. User specifies file path
 
 1.2.4. Output average sentence length, rounded out to the nearest integer
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Specify the logical characteristics of each interface between the software product and its users. This is a description of how the system will interact with its users.
 
